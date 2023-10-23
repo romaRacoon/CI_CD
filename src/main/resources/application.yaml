@@ -1,0 +1,5 @@
+spring:
+  r2dbc:
+    username: root
+    password: admin
+    url: jdbc:postgresql://localhost:5444/student-api
